@@ -18,7 +18,7 @@
   /* Create two columns/boxes that floats next to each other */
   nav {
     float: left;
-    width: 800px;
+    width: 30%;
     height: auto; /* only for demonstration, should be removed */
     
     padding: 30px;
